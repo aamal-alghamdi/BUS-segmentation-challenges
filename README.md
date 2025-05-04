@@ -1,5 +1,3 @@
-# BUS-segmentation-challenges
-
 # Challenges in Segmenting Lesions in Breast Ultrasound Images
 
 This repository accompanies the poster and code for the project on the challenges of segmenting lesions in breast ultrasound images using deep learning.
@@ -15,7 +13,7 @@ Breast ultrasound imaging is broadly applied for the early detection and diagnos
 - UNet
 - FPN
 - DeepLabv3+ 
-- UNet++ 
+- UNet++  
 All using ResNet18 encoders pretrained on ImageNet.
 
 ## 📂 Project Structure
