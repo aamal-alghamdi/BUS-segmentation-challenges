@@ -1,5 +1,7 @@
 # Challenges in Segmenting Lesions in Breast Ultrasound Images
 
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
 This repository accompanies the poster and code for the project on the challenges of segmenting lesions in breast ultrasound images using deep learning.
 
 ## Overview
