@@ -37,8 +37,8 @@ All using ResNet18 encoders pretrained on ImageNet.
   *Lecturer B, University of Strathclyde*
 
 ## Venues 
-- [SINAPSE annual meeting (9th, 10th June 2025)](https://www.sinapse.ac.uk/events/sinapse-asm-2025-aberdeen/)
-- [SICSA PhD Conference (25th, 26th June 2025)](https://www.sicsa.ac.uk/event/sicsa-phd-conference-2025/)
-- [BMVA Summer School (CVSS) (7th-11th July 2025)](https://cvss.bmva.org/)
+- [SINAPSE annual meeting](https://www.sinapse.ac.uk/events/sinapse-asm-2025-aberdeen/): 9th, 10th June 2025
+- [SICSA PhD Conference](https://www.sicsa.ac.uk/event/sicsa-phd-conference-2025/): 25th, 26th June 2025
+- [BMVA Summer School](https://cvss.bmva.org/): 7th-11th July 2025
 
 
