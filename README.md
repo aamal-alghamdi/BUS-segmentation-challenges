@@ -16,11 +16,12 @@ Breast ultrasound imaging is broadly applied for the early detection and diagnos
 - UNet++  
 All using ResNet18 encoders pretrained on ImageNet.
 
-## 📂 Project Structure
+## Project Structure
 - `/code`: Training and evaluation scripts
 - `/poster`: Poster PDF and figures
-- `/results`: Visual and quantitative outputs
 
-## 📊 Datasets
+## Datasets
 - **BUSIS**
 - **UDIAT**
+
+## Author
