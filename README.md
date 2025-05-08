@@ -25,3 +25,25 @@ All using ResNet18 encoders pretrained on ImageNet.
 - **UDIAT**
 
 ## Author
+- Aamal Alghamdi: PhD student at Strathclyde University, Department of Computer and Information Sciences, spe;isioast in AI Computer vision medical Imaging 
+- Mohamed Elawady: My supervioser [https://pureportal.strath.ac.uk/en/persons/mohamed-elawady]
+- Andrew Able: My co-superviser [https://pureportal.strath.ac.uk/en/persons/andrew-abel] 
+
+## Authors
+- **Aamal Alghamdi**  
+  *PhD Student, Department of Computer and Information Sciences*  
+  *University of Strathclyde*  
+  My PhD topic: Semantic Segmentation of Breast Lesions in Ultrasound Images
+  
+- **Dr. Mohamed Elawady** — [Supervisor](https://pureportal.strath.ac.uk/en/persons/mohamed-elawady)  
+  *Teaching Fellow, University of Strathclyde*
+
+- **Dr. Andrew Abel** — [Co-supervisor](https://pureportal.strath.ac.uk/en/persons/andrew-abel)  
+  *Lecturer B, University of Strathclyde*
+
+## Venues 
+- SINAPSE annual meeting (9th, 10th June 2025): (https://www.sinapse.ac.uk/events/sinapse-asm-2025-aberdeen/)
+- SICSA PhD Conference (25th, 26th June 2025): (https://www.sicsa.ac.uk/event/sicsa-phd-conference-2025/)
+- BMVA Summer School (CVSS) (7th-11th July 2025): (https://cvss.bmva.org/)
+
+
